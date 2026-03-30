@@ -163,7 +163,7 @@ The model achieves high accuracy on the validation dataset (approximately 90–9
 
 ## Author
 
-Your Name
+Amritasha Gupta
 
 
 
